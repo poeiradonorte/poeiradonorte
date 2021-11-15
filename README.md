@@ -18,6 +18,7 @@
   <img align="center" alt="Leon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leon-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Leon-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
+   <img align="center" alt="Leon-Shell-Script" height="30" width="40" src="https://github.com/odb/official-bash-logo/tree/master/assets/Logos/Icons/SVG/64x64.svg">
 </div>
 
   ##
