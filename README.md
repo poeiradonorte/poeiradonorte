@@ -13,8 +13,8 @@
  ##
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Leon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Leon-Fortran" height="30" width="40" src="https://img.shields.io/badge/Fortran-%23734F96.svg">
+  <img align="center" alt="Leon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Leon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leon-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Leon-SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
