@@ -17,8 +17,7 @@
   <img align="center" alt="Leon-Fortran" height="30" width="40" src="https://img.shields.io/badge/Fortran-%23734F96.svg">
   <img align="center" alt="Leon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leon-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Rafa-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leon-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
 </div>
 
   ##
