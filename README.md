@@ -1,4 +1,4 @@
-### Hi there I'm Leon Sulfierry 👋
+### Hi there 👋
 
 ##
 - 🔭 I’m currently working on molecular modeling (scientific computing)
